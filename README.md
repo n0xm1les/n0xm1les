@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @n0xm1les
+- 👀 I’m interested in ethical hacking and python programming.
+- 🌱 I’m currently learning python3
+- 📫 How to reach me nxmles@gmail.com
