@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n0xm1les
+- 👋 Hi, I’m @n0xm1les Kerem Yemenici
 - 👀 I’m interested programming and quantum mechanic.
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me nxmles@gmail.com
+- 📫 How to reach me keremyemenici213@gmail.com
